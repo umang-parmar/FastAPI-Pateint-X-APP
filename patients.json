@@ -48,5 +48,15 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
+    },
+    "P006": {
+        "name": "umang",
+        "city": "navsari",
+        "age": 20,
+        "gender": "male",
+        "height": 6.0,
+        "weight": 65.0,
+        "bmi": 1.81,
+        "verdict": "Underweight"
     }
 }
