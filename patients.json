@@ -51,12 +51,12 @@
     },
     "P006": {
         "name": "umang",
-        "city": "navsari",
+        "city": "Mumbai",
         "age": 20,
         "gender": "male",
         "height": 6.0,
-        "weight": 65.0,
-        "bmi": 1.81,
+        "weight": 66.0,
+        "bmi": 1.83,
         "verdict": "Underweight"
     }
 }
